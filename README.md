@@ -1,4 +1,4 @@
-# Traveling-Salesperson
+# Traveling-Salesperson-MST-Solver
 This project implements algorithms for solving graph problems related to the Traveling Salesperson Problem (TSP) and Minimum Spanning Tree (MST). It supports three modes of operation, each modeling different optimization strategies:
 
 * MST – Uses Prim’s algorithm to compute a minimum spanning tree. Includes constraints where USA and Canada regions must connect through border points.
