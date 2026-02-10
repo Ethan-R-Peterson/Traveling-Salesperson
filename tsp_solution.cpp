@@ -1,4 +1,3 @@
-// Project Identifier: 8729BF7B2234189B8DF8A6DD31770D2B18569C27
 #include <iostream>
 #include <getopt.h>
 #include <vector>
